@@ -11,4 +11,16 @@ c7f2d992-d50e-465d-8f98-12cdba99f3e3
 {4,"_$InfoBase$_.DBConfigUpdateStart",4},
 {4,"_$InfoBase$_.DBConfigUpdate",5},
 {3,"1CV8C",2},
-{4,"_$Session$_.Finish",6}
+{4,"_$Session$_.Finish",6},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.Update",8},
+{5,b54da29c-c0e5-41c7-98df-5a943cb35965,"Константа.НаименованиеОрганизации",1},
+{5,a7aec635-e987-4c7d-8748-9b8cc2111305,"Константа.УчетПоСкладам",2},
+{4,"_$Transaction$_.Commit",9},
+{3,"BackgroundJob",3},
+{4,"_$InfoBase$_.PredefinedDataUpdate",10},
+{5,869721da-aee2-46fc-ae8d-5b808fcb0cb7,"",3},
+{5,542e0a5f-d76a-4f44-8914-4d955ec75d9a,"",4},
+{5,1bdd6e04-d625-4e7c-81fa-2fcfb10872a6,"",5},
+{4,"_$Data$_.New",11},
+{5,869721da-aee2-46fc-ae8d-5b808fcb0cb7,"Справочник.Номенклатура",3}
